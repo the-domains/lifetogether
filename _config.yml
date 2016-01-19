@@ -1,0 +1,28 @@
+name: lifetogether
+favicon: null
+layout_spectrum: 0.6730207267682999
+typography_spectrum: 0.2917688002344221
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5785415021236986
+  lightness: 0.6877244317438453
+  saturation: 0.7523419505450875
+  rhythmicContrast: 0.6017925953492522
+purpose: []
